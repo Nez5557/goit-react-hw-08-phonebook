@@ -1,0 +1,27 @@
+.submitBtn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  min-width: 100px;
+  height: 40px;
+  font-weight: 500;
+  background-color: rgb(238, 44, 206);
+  color: white;
+  border: none;
+  border-radius: 8px;
+}
+
+.formLabel {
+  display: block;
+  max-width: 182px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-weight: 700;
+  color: Black;
+}
+
+label:first-child {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,10 @@
+.filterLabel {
+  display: block;
+  max-width: 182px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+
+  font-weight: 700;
+  color: Black;
+}
